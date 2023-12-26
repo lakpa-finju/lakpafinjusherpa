@@ -619,11 +619,21 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 40px;
+  padding-top: 5px;
+}
+
+.Nilo {
+  width: 40%;
+}
+
+.portfolio-details .portfolio-details-slider .Nilo {
+  width: 40%;
+  height: auto;
 }
 
 .portfolio-details .portfolio-details-slider img {
-  width: 100%;
+  width: 80%;
+  height: auto;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
